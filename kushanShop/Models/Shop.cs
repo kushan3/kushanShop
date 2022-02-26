@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace KushanShop.Models
 {
-    public class KushanShop
+    public class Shop
     {
         public int Id { get; set; }
         public string Type { get; set; }
